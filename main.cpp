@@ -1,5 +1,7 @@
 #include "includes.h"
 
+#define BAUD_RATE 115200
+
 int main()
 {
 	SYS_INIT();
